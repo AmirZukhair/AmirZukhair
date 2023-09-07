@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirZukhair
 - 👀 I’m interested in web
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently develop my vue.js skills !
 
 <!---
 AmirZukhair/AmirZukhair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
